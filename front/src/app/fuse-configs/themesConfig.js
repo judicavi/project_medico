@@ -207,6 +207,26 @@ const themesConfig = {
 				default: '#121212'
 			}
 		}
+	},
+	medico: {
+		palette: {
+			type: 'light',
+			primary: {
+				light: '#87EFFF',
+				main: '#4DBCE9',
+				dark: '#008CB7',
+				contrastText: '#FFF'
+			},
+			secondary: {
+				light: '#FFFF83',
+				main: '#D1E751',
+				dark: '#9DB516'
+			},
+			background: {
+				paper: '#FFFFFF',
+				default: '#F7F7F7'
+			}
+		}
 	}
 };
 
